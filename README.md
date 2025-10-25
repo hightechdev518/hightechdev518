@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hey there, I'm Thomas Chan</h1>
-<h3 align="center">Creative Developer | Unity Assistant | Web Innovator</h3>
+<h3 align="center">Creative Developer | Unity Assistant | Web Innovator | Blockchain Engineer</h3>
 
 --
 
