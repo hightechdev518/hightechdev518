@@ -1,4 +1,4 @@
-## 💫 Hi, I’m Harry John (hightechdev58)
+## 💫 Hi, I’m Thomas Chan (hightechdev58)
 🚀 **Full Stack Developer | MERN & React | Unity Game Developer | Problem Solver**
 
 Passionate about building **interactive web apps**, **smooth user experiences**, and **immersive games**.  
