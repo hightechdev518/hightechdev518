@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/NFL4m6J/A-digital-graphic-design-banner-features-Thomas-Ch.png" alt="Thomas Chan Banner" />
 </p>
 
-<h1 align="center">👋 Hey there, I'm Thomas Chan</h1>
+<h1 align="center">👋 Hey there</h1>
 <h3 align="center">Creative Developer | Unity Assistant | Web Innovator | Blockchain Engineer</h3>
 
 --
