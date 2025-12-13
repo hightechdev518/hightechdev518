@@ -61,4 +61,3 @@ Made using React, Node.js, and Python with seamless UI/UX integration.
 ---
 
 ⭐ _“Creativity + Code = Magic”_  
-Made with ❤️ by **Thomas Chan**
