@@ -15,6 +15,9 @@ Built with React, Tailwind, and Node.js for a fast, elegant experience.
 Your ultimate Unity companion — designed to help developers with assets, scripting tips, and AI-driven tools.  
 Made using React, Node.js, and Python with seamless UI/UX integration.
 
+Eye-catching betting web for cockfighting 
+I designed all features and made it real alive application.
+
 ---
 
 ### 🔥 Languages & Tools
