@@ -25,19 +25,6 @@ Made using React, Node.js, and Python with seamless UI/UX integration.
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:thomaschan580019@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/thomaschan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
