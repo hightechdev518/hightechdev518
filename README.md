@@ -25,19 +25,6 @@ Made using React, Node.js, and Python with seamless UI/UX integration.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thomaschan&show_icons=true&theme=radical&count_private=true" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=thomaschan&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschan&layout=compact&theme=radical" />
-</p>
-
----
-
 ### ✨ About Me
 
 💡 Passionate about design and development synergy  
